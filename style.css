@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: azure;
+    background-color: black;
     cursor: grabbing;
 }
 
@@ -35,7 +35,7 @@ overflow: hidden;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
-    transition: 20s;
+    transition: 15s;
     opacity: 0;
     pointer-events: none;
     width: 100%;
